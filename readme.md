@@ -1,5 +1,5 @@
 # TO RUN THIS PROJECT ON YOUR REPL, PLEASE FOLLOW THE FOLLOWING STEPS AFTER SETTING UP THE FOLDERS AS IS
-  1. Go to the shell in replit and type in the command: cd flask_projects
+  1. Just press the run button and you are all set.
   2. If you want to create a new database, delete the exsisting test.db file and write python3 in the shell. Within python3, write:
     a.from main import db
     b.db.create_all()
